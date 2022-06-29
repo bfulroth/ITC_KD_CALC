@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath ITC_KD_CALC app:app
